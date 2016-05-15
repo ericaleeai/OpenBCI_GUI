@@ -1,0 +1,3 @@
+class GUI_Ellipse {
+  
+}
